@@ -1,0 +1,8 @@
+
+.square {
+    display: flex;
+    justify-content: end;
+    background: chartreuse ;
+    width: 370px;
+    height: 370px;
+}
